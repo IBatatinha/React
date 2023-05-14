@@ -1,3 +1,3 @@
 # ReactTypescript
-> Template Basic startded for tor one projects
-> for startded need give command to cmd "npm i" or "yarn install
+> Template Basic start for your first projects
+> for start need give command in cmd "npm i" or "yarn install
